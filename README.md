@@ -8,4 +8,4 @@
 
 ## Live Site:
 
-[Image Slider]()
+[Image Slider](https://image-slider-project.netlify.app)
